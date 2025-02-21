@@ -1,0 +1,1 @@
+Programacion de Computacion Cuantica, se sugiere usar python version 3.10 a la version actual de python y actualizar constantemente las librerias, si pide algo extra se recomienda investigar o inventar librerias para que funcionen como parche
